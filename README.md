@@ -74,7 +74,8 @@ Head-Detection-Using-YOLO/
 ---
 ## How it will look
 |----------------|
-| ![UI](https://github.com/pprvt01/Head-Detection-Using-YOLO/blob/main/UI.png) |
+|----------------|
+| ![](https://github.com/pprvt01/Head-Detection-Using-YOLO/blob/main/UI.png) |
 
 ## To Do / Future Improvements
 
