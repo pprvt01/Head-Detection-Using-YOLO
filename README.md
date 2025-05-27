@@ -73,6 +73,10 @@ Head-Detection-Using-YOLO/
 
 ---
 
+| How it will look | 
+|----------------|
+| ![UI]() |
+
 ## To Do / Future Improvements
 
 - Support webcam/video input
