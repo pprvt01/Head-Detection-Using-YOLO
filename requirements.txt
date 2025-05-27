@@ -1,0 +1,14 @@
+#backend
+fastapi
+uvicorn
+ultralytics
+opencv-python
+python-multipart
+
+# Frontend
+streamlit
+requests
+Pillow
+
+# Optional (if you want CORS support between frontend/backend)
+python-multipart
