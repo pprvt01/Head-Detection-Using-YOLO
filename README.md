@@ -15,7 +15,7 @@ This project provides a simple and interactive **Streamlit web application** tha
 
 | Uploaded Image | Detected Heads |
 |----------------|----------------|
-| ![Input](https://github.com/pprvt01/Head-Detection-Using-YOLO/blob/main/input.jpg) | ![Output]((https://github.com/pprvt01/Head-Detection-Using-YOLO/blob/main/output.jpg)) |
+| ![Input](https://github.com/pprvt01/Head-Detection-Using-YOLO/blob/main/input.jpg) | ![Output](https://github.com/pprvt01/Head-Detection-Using-YOLO/blob/main/output.jpg) |
 
 ---
 
