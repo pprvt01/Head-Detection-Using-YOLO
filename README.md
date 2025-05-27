@@ -1,19 +1,19 @@
-# 🧠 Head Detection with YOLOv8 + Streamlit
+# Head Detection with YOLOv8 + Streamlit
 
 This project provides a simple and interactive **Streamlit web application** that allows users to **upload an image** and detect human heads using the **YOLOv8 object detection model**.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📤 Upload `.jpg`, `.jpeg`, or `.png` images (up to 200MB)
-- ⚡ Fast and accurate **head detection** using YOLOv8
-- 🖼️ Real-time visualization of detected heads
-- 🧩 Minimal and responsive UI using **Streamlit**
+- Upload `.jpg`, `.jpeg`, or `.png` images (up to 200MB)
+- Fast and accurate **head detection** using YOLOv8
+- Real-time visualization of detected heads
+- Minimal and responsive UI using **Streamlit**
 
 ---
 
-## 📸 Demo
+## Demo
 
 | Uploaded Image | Detected Heads |
 |----------------|----------------|
@@ -21,7 +21,7 @@ This project provides a simple and interactive **Streamlit web application** tha
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: [Streamlit](https://streamlit.io/)
 - **Model**: [YOLOv8 (Ultralytics)](https://github.com/ultralytics/ultralytics)
@@ -29,7 +29,7 @@ This project provides a simple and interactive **Streamlit web application** tha
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### 1. Clone the Repository
 
@@ -61,7 +61,7 @@ streamlit run app.py
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 Head-Detection-Using-YOLO/
@@ -75,28 +75,28 @@ Head-Detection-Using-YOLO/
 
 ---
 
-## ✅ To Do / Future Improvements
+## To Do / Future Improvements
 
-- [ ] Support webcam/video input
-- [ ] Integrate line-crossing for head counting
-- [ ] Add real-time FPS overlay
-- [ ] Dockerize the app for easy deployment
+- Support webcam/video input
+- Integrate line-crossing for head counting
+- Add real-time FPS overlay
+- Dockerize the app for easy deployment
 
 ---
 
-## 🔒 License
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👤 Author
+## Author
 
-- [Rahul Agarwal](https://github.com/your-username)
+- [Rahul Agarwal](https://github.com/pprvt01)
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
 - [Streamlit](https://streamlit.io/)
